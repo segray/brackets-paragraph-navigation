@@ -1,21 +1,21 @@
 {
-    "name": "segrey.paragraph-navigation",
+    "name": "brackets-paragraph-navigation",
     "title": "Paragraph navigation",
     "description": "Use Ctrl-Up, Ctrl-Down to navigate next and prev paragraph. Hold Shift to select.",
     "keywords": ["press", "paragraph", "navigate", "step", "jump"],
-    "homepage": "https://github.com/blabla/blabla",
+    "homepage": "https://github.com/segray/brackets-paragraph-navigation",
     "version": "1.0",
     "author": {
-        "name": "Sergey Pershin",
-        "url": "https://github.com/blabla/blabla",
+        "name": "segray",
+        "url": "https://github.com/segray/brackets-paragraph-navigation",
         "email": "pserega@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:blabla/balbla.git"
+        "url": "git@github.com:segray/brackets-paragraph-navigation.git"
     },
     "bugs": {
-        "url": "https://github.com/blabla/blabla/issues",
+        "url": "https://github.com/segray/brackets-paragraph-navigation/issues",
         "email": "pserega@gmail.com"
     },
     "license": "MIT",

@@ -1,7 +1,7 @@
 /*
  * Brackets 'paragraph navigation' extension.
  *
- * Copyright (c) 2015 Sergey Pershin. All rights reserved.
+ * Copyright (c) 2015 segray. All rights reserved.
  * Distributed under an MIT license:
  *
  * Permission is hereby granted, free of charge, to any person obtaining a
