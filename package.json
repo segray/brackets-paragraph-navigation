@@ -1,0 +1,25 @@
+{
+    "name": "segrey.paragraph-navigation",
+    "title": "Paragraph navigation",
+    "description": "Use Ctrl-Up, Ctrl-Down to navigate next and prev paragraph. Hold Shift to select.",
+    "keywords": ["press", "paragraph", "navigate", "step", "jump"],
+    "homepage": "https://github.com/blabla/blabla",
+    "version": "1.0",
+    "author": {
+        "name": "Sergey Pershin",
+        "url": "https://github.com/blabla/blabla",
+        "email": "pserega@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:blabla/balbla.git"
+    },
+    "bugs": {
+        "url": "https://github.com/blabla/blabla/issues",
+        "email": "pserega@gmail.com"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.0"
+    }
+}
